@@ -1,0 +1,24 @@
+{
+  "name": "practicas-readme",
+  "version": "1.0.0",
+  "description": "en esta actividad cree un repositorio en GitHub, lo clone en su equipo, configure un proyecto con Express y suba correctamente los archivos al repositorio remoto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabino-Zatarain/practicas-README.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Gabino-Zatarain/practicas-README/issues"
+  },
+  "homepage": "https://github.com/Gabino-Zatarain/practicas-README#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
